@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">errorremove</string>
+    <string name="ttt">0</string>
+    <string name="resetButton">reset</string>
+    <string name="increaseButton">Increase</string>
+    <string name="decreaseButton">decrease</string>
+</resources>
